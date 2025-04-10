@@ -4,7 +4,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**
 **Me apasiona la tecnología y el desarrollo de software.**
 
 ## 🚀 Habilidades
-- ** Montar
 - **Metodologías ágiles**: Scrum, Kanban
 
 ## 🌱 Actualmente aprendiendo

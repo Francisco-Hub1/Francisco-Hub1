@@ -4,13 +4,12 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**
 Me apasiona la tecnología y el desarrollo de software.  
 
 ## 🚀 Habilidades
-
-- **Control de versiones**: Git, GitHub
+- ** Montar
 - **Metodologías ágiles**: Scrum, Kanban
 
 ## 🌱 Actualmente aprendiendo
-Lenguaje de Java,Javascript.
-Control de versiones: Git, GitHub
+- **Lenguaje de programación**: Java,Javascript.
+- **Control de versiones**: Git, GitHub
 
 ## 📫 Contacta conmigo
 

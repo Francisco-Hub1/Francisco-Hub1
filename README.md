@@ -1,11 +1,12 @@
 # ¡Hola, soy [Francisco Ramón]! 👋
 
+## Sobre mí
 - **Soy estudiante de Desarrollo de Aplicaciones Multiplataforma**
 - **Me apasiona la tecnología y el desarrollo de software.**
 
 ## 🚀 Habilidades
 - **Metodologías ágiles**: Scrum, Kanban
-
+- **HTML, CSS, SQL**
 ## 🌱 Actualmente aprendiendo
 - **Lenguaje de programación**: Java,Javascript.
 - **Control de versiones**: Git, GitHub

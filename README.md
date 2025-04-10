@@ -1,6 +1,6 @@
 # ¡Hola, soy [Francisco Ramón]! 👋
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**
+**Soy estudiante de Desarrollo de Aplicaciones Multiplataforma**
 **Me apasiona la tecnología y el desarrollo de software.**
 
 ## 🚀 Habilidades
